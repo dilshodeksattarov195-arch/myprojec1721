@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailpender",
+        "uuid": 4942712,
+        "checksum": "iz113r"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
